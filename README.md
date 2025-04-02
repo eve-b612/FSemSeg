@@ -1,4 +1,4 @@
-# 🧱 FSemSeg: Building Facade Semantic Segmentation
+# FSemSeg: Building Facade Semantic Segmentation
 
 This project performs semantic segmentation on building facades using trained deep learning models (U-Net or FCN). It predicts facade element masks and computes the **Window-to-Wall Ratio (WWR)** from the predicted segmentation.
 
@@ -15,6 +15,7 @@ This project performs semantic segmentation on building facades using trained de
 ---
 
 ## Project Structure
+<pre>```
 FSemSeg/
 ├── models/
 │   └── 061224_unet.keras
@@ -33,7 +34,7 @@ FSemSeg/
 │   └── utils.py
 ├── requirements.txt
 └── README.md
-
+```<pre>
 ### 1. Clone the repository
 
 ```bash
