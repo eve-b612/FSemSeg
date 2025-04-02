@@ -34,7 +34,8 @@ FSemSeg/
 │   └── utils.py
 ├── requirements.txt
 └── README.md
-```<pre>
+```</pre>
+
 ### 1. Clone the repository
 
 ```bash
